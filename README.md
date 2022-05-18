@@ -1,10 +1,8 @@
 <div align="center">
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)" align="center" style="width: 100%" />
-</div>  
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" style="width: 100%" />
+</div>   
   
 ### <div align="center">I'm Fırat, a Software Engineering Student👨‍💻</div>  
-  
-  <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 - 🌱 I’m currently learning JAVA  
    
