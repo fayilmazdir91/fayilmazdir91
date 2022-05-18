@@ -2,16 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Fırat, a Software Engineering Student👨‍💻</div>  
   
 
 - 🌱 I’m currently learning JAVA  
-  
-
-- ⚡ Fun fact: I love watch films related to history.  
-  
-
+   
 <br/>  
 
 
