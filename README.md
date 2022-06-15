@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" style="width: 50%" />
 </div>   
   
-### <div align="center">I'm Fırat, a Software Engineering Student👨‍💻</div>  
+### <div align="center">Hi there! I'm Fırat, a Software Engineering Student👨‍💻</div>  
 
 - 🌱 I’m currently learning JAVA  
    
