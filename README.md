@@ -4,7 +4,7 @@
   
 ### <div align="center">Hi there! I'm Fırat, a Software Engineering Student👨‍💻</div>  
 
-- 🌱 I’m currently learning Spring & Spring Boot
+- 🌱 I’m currently practicing Spring & Spring Boot
    
 <br/>  
 
