@@ -1,9 +1,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" style="width: 50%" />
 </div>   
-  
-### <div align="center">Hi there! I'm Fırat 👨‍💻</div>  
-   
 <br/>  
 
 ## Connect with me  
